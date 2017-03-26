@@ -1,0 +1,39 @@
+rank1:
+  permission: gcshopsignsrank.use.rank1
+  items:
+    #- {ID}; {PREÇO} #Model
+    - 351:4; 1  #Lapis-lazuli
+    - 264; 10   #Diamond
+    - 263; 3    #Coal
+
+rank2:
+  permission: gcshopsignsrank.use.rank1
+  items:
+    #- {ID}; {PREÇO} #Model
+    - 351:4; 1  #Lapis-lazuli
+    - 264; 10   #Diamond
+    - 263; 3    #Coal
+
+rank3:
+  permission: gcshopsignsrank.use.rank1
+  items:
+    #- {ID}; {PREÇO} #Model
+    - 351:4; 1  #Lapis-lazuli
+    - 264; 10   #Diamond
+    - 263; 3    #Coal
+
+rank4:
+  permission: gcshopsignsrank.use.rank1
+  items:
+    #- {ID}; {PREÇO} #Model
+    - 351:4; 1  #Lapis-lazuli
+    - 264; 10   #Diamond
+    - 263; 3    #Coal
+
+rank5:
+  permission: gcshopsignsrank.use.rank1
+  items:
+    #- {ID}; {PREÇO} #Model
+    - 351:4; 1  #Lapis-lazuli
+    - 264; 10   #Diamond
+    - 263; 3    #Coal

@@ -1,0 +1,11 @@
+name: GCShopSignsRank
+version: 1.0-SNAPSHOT
+description: A simple plugin that allows you to sell many items at once
+author: Game_Crytus
+
+main: me.Game_Crytus.GCShopSignsRank.GCShop
+
+commands:
+  GCShopSignsRank:
+    description: QuizGC basic command
+    aliases: [gcshop, gcss]
